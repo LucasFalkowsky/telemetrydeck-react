@@ -1,5 +1,33 @@
 # Changelog
 
+## [0.5.0](https://github.com/typedigital/telemetrydeck-react/compare/v0.4.1...v0.5.0) (2025-07-18)
+
+
+### Features
+
+* create test requests for apps running on localhost ([#26](https://github.com/typedigital/telemetrydeck-react/issues/26)) ([3d9b876](https://github.com/typedigital/telemetrydeck-react/commit/3d9b876f5f18aefe7134e9fd52b6f682129f3503))
+
+## [0.4.1](https://github.com/typedigital/telemetrydeck-react/compare/v0.4.0...v0.4.1) (2025-06-30)
+
+
+### Bug Fixes
+
+* export plugins ([#24](https://github.com/typedigital/telemetrydeck-react/issues/24)) ([c57dd1e](https://github.com/typedigital/telemetrydeck-react/commit/c57dd1e92b3340848e97fc75728a56b0621a3306))
+
+## [0.4.0](https://github.com/typedigital/telemetrydeck-react/compare/v0.3.0...v0.4.0) (2025-06-30)
+
+
+### Features
+
+* add a plugin system to enhance the payload of the signals send ([#22](https://github.com/typedigital/telemetrydeck-react/issues/22)) ([0c5f6f6](https://github.com/typedigital/telemetrydeck-react/commit/0c5f6f6617f05e120ae3bf287afe16797c11a3a2))
+
+## [0.3.0](https://github.com/typedigital/telemetrydeck-react/compare/v0.2.0...v0.3.0) (2025-06-09)
+
+
+### Features
+
+* new tests ([#15](https://github.com/typedigital/telemetrydeck-react/issues/15)) ([2d4fe78](https://github.com/typedigital/telemetrydeck-react/commit/2d4fe788891a88b98be6fc69945576a170d14cd4))
+
 ## [0.2.0](https://github.com/typedigital/telemetrydeck-react/compare/v0.2.0-rc...v0.2.0) (2024-01-17)
 
 
